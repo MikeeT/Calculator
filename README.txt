@@ -1,2 +1,2 @@
 # Calculator
-C++ written calculator, with XMAL visulaization
+C++ written calculator, with XAML visulaization
